@@ -1,7 +1,7 @@
 # finkspot
 Finskpot API
 
-The API provide access for Organiztions
+The API provide access for organiztions
 - To recieve complaint, abuses and misconduct reports
 - To send messages to reporter
 - To recieve indices data dashboard applications
