@@ -1,0 +1,2 @@
+# finkspot
+Finskpot API information
